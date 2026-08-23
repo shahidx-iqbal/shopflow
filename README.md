@@ -26,9 +26,12 @@ ShopFlow is a modern Flutter-based shop management and POS application designed 
 - **Backend:** FastAPI
 - **Database:** Neon PostgreSQL
 
+
+
 ## State Management
 
 ShopFlow uses **BLoC (Business Logic Component)** with `flutter_bloc` for predictable and scalable state management.
+
 
 The application separates UI, business logic, and data handling to keep the codebase:
 
@@ -36,3 +39,4 @@ The application separates UI, business logic, and data handling to keep the code
 - Testable
 - Scalable
 - Easy to extend
+
